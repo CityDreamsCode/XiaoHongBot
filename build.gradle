@@ -3,7 +3,7 @@ plugins {
     id 'java'
 }
 
-group 'cn.xiaohong'
+group 'cn.citydream.xiaohongbot'
 version '1.0-SNAPSHOT'
 
 repositories {
