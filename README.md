@@ -4,8 +4,8 @@
 XiaoMing is a generic, effective and simple lib for IM bots, based on [Mirai](https://github.com/mamoe/mirai) (an effective lib for QQ) currently (other IM software supports are comming soon).
 
 
-> Sponsor: [Chuanwise](https://github.com/Chuanwise) <br>
-> QQ group: [1028959718](https://jq.qq.com/?_wv=1027&k=sjBXo6xh)
+> Sponsor: [XiaoChuanIT](https://github.com/XiaoChuanIT) <br>
+> QQ group: [936690596](https://qm.qq.com/cgi-bin/qm/qr?k=qQDiT_lRAGIZn-DcW5KPgp-iU0sjpJ_Q&jump_from=webapi)
 
 ## declarations
 
